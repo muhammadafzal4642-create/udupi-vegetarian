@@ -1,0 +1,6 @@
+{
+  "name": "Udupi Grand Al-Khuwair",
+  "description": "Experience the authentic taste of South India in Al Khuwair, Oman. Traditional banana leaf dining, vegetarian specialties, and warm hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
